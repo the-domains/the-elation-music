@@ -10,25 +10,21 @@ description: >-
   becoming the most exciting act in Ireland, the UK, and Europe.Infectious
   pop/funk and dance tracks, written and performed by the band, are making UV5 a
   red-hot prospect for major festivals, venues and even more sell out shows.
-datePublished: '2016-07-28T23:42:13.128Z'
-dateModified: '2016-07-28T23:41:50.631Z'
+datePublished: '2016-07-28T23:45:17.059Z'
+dateModified: '2016-07-28T23:45:01.196Z'
 title: ''
 author: []
 via: {}
 sourcePath: >-
   _posts/2016-07-28-the-elation-are-an-original-music-act-hailing-from-cork-ire.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: the-elation-are-an-original-music-act-hailing-from-cork-ire/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/508585a2-8d5e-42e3-a8c8-008bb490f045.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88e449e7-1090-4a33-af4d-35a394e6c952.png)
 
 The Elation are an original music act hailing from Cork, Ireland.Radio friendly floor fillers and high energy live shows are pushing UV5 forward to becoming the most exciting act in Ireland, the UK, and Europe.Infectious pop/funk and dance tracks, written and performed by the band, are making UV5 a red-hot prospect for major festivals, venues and even more sell out shows.
 
@@ -47,8 +43,5 @@ So we reached out, looking for some common ground. Through many calls, emails an
 So, here we are! We're excited to begin our new adventure, and to all our fans? We really cannot wait to give you a sneak peek at[INDIEPENDENCE Music & Arts Festival][0]2016, to give you an exclusive preview of our (not so) dirty secret!
 
 The Elation
-
-  
-
 
 [0]: https://www.facebook.com/INDIEPENDENCEFEST/
