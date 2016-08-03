@@ -22,7 +22,7 @@ color:
     - '#A7A58C'
     - '#E4E6D9'
     - '#592829'
-  rhythmicContrast: 0.5542251
+  rhythmicContrast: 0.2510638
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: The Elation Music
+favicon: null
 opengraph:
   image: null
   type: null
