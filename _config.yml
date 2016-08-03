@@ -1,5 +1,8 @@
-title: The Elation Music
-purpose: []
+name: The Elation Music
+favicon: null
+layout_spectrum: 0.2382979
+typography_spectrum: 0.4736099436413497
+title: test site
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#0F0D0E'
     - '#375172'
     - '#A7A58C'
     - '#E4E6D9'
     - '#592829'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.2510638
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: The Elation Music
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4736099436413497
-layout_spectrum: 0.2382979
+purpose: []
